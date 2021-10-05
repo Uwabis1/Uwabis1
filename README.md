@@ -1,10 +1,13 @@
 ### Hi there 👋, I'm Uwabis
 
-I'm Uwagbale Okoh, a Blockchain Developer and Architect. I am a self-taught developer and spend my days working in many different areas of Blockchain and Web Development from building Decentralized Applications, Smart Contracts, permissioned blockchain solutions, and full-stack development.
+I'm a Blockchain Developer and Architect. I am a self-taught developer and spend my days working in many different areas of Blockchain and Web Development from building Decentralized Applications, Smart Contracts, permissioned blockchain solutions, and full-stack development.
 
 I'm extremely passionate about Blockchain in all its forms and love exploring in this field. Looking to contribute to Internet 3.0
 
 I am fascinated with new technology and always strive hard to learn them and keep myself updated.
+
+- 📫 uwabis@yahoo.com
+
 
 
 
