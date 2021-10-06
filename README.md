@@ -8,6 +8,8 @@ I am fascinated with new technology and always strive hard to learn them and kee
 
 - 📫 uwabis@yahoo.com
 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[linkedin].svg" />
+
 
 
 
